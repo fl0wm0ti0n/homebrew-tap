@@ -6,9 +6,9 @@ class ItsMagic < Formula
   desc "AI development workflow toolkit for multi-agent teams"
   homepage "https://github.com/USER/its-magic"
   # UPDATE: url and sha256 after each release
-  url "https://github.com/fl0wm0ti0n/its-magic/archive/refs/tags/v0.1.2-21.tar.gz"
-  version "0.1.2-21"
-  sha256 "dbb86bd97c968cf61ea498b931889210daeea5ffac217603c94a5befc6107488"
+  url "https://github.com/fl0wm0ti0n/its-magic/archive/refs/tags/v0.1.2-25.tar.gz"
+  version "0.1.2-25"
+  sha256 "4bc5aacc4804341d5b1fbc6d514761210a6808b9eb154e418a6e3fba639d29e4"
   license "MIT"
 
   def install
