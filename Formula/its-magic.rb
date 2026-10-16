@@ -6,10 +6,10 @@ class ItsMagic < Formula
   desc "AI development workflow toolkit for multi-agent teams"
   homepage "https://github.com/USER/its-magic"
   # UPDATE: url, version, and sha256 after each release (`curl -sL <url> | shasum -a 256`)
-  url "https://github.com/fl0wm0ti0n/its-magic/archive/refs/tags/v0.1.11.tar.gz"
-  version "0.1.11"
+  url "https://github.com/fl0wm0ti0n/its-magic/archive/refs/tags/v0.1.12.tar.gz"
+  version "0.1.12"
   # UPDATE sha256 when the tag tarball is published: curl -sL <url> | shasum -a 256
-  sha256 "a19ca5f181a63e67792a78d0ce23e8fd5c60b10e176198e877f452dcb9742dc3"
+  sha256 "69f63469ad11c4a404ad77717817bbca550d737cded35bff725d350efbf341d7"
   license "MIT"
 
   def install
